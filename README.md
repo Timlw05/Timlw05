@@ -6,7 +6,7 @@ aus Nordrhein-Westfalen. Mein Schwerpunkt liegt auf **Java-Backend-Entwicklung**
 - 🔭 Aktuell: Ich baue an eigenen Projekten und vertiefe Spring Boot & SQL
 - 🌱 Ich lerne gerade: Cloud-Grundlagen und sauberes Testing
 - 💬 Frag mich zu: Java, Spring Boot, REST-APIs
-- 📫 Erreichbar unter: timlukas1011@gmail.com
+- 📫 Erreichbar unter: [timlukas1011@gmail.com](https://www.linkedin.com/in/tim-wilhelmi-10a873385/)
 
 ---
 
